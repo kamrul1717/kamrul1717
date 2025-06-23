@@ -6,9 +6,9 @@ I'm a **Software Engineer** with 5+ years of experience building scalable and ma
 
 ## 🔧 Tech Stack
 
-- **Languages:** PHP, JavaScript, Bash
-- **Frameworks:** Laravel, Yii 1.x / 2.x, Lumen
-- **Databases:** MySQL, SQL Server, MariaDB
+- **Languages:** PHP, JavaScript, Bash, Shell Script
+- **Frameworks:** Laravel, REACT JS, Yii 1.x / 2.x, 
+- **Databases:** MySQL, SQL Server
 - **Tools & Platforms:** Git, Docker, XAMPP, Apache, NGINX, Redis
 - **Others:** REST API, MVC, OOP, Eloquent ORM, Query Optimization
 
