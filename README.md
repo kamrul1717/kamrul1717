@@ -32,8 +32,8 @@ I'm a **Software Engineer** with 5+ years of experience building scalable and ma
 
 ## 📫 Get in Touch
 
-- 💼 [LinkedIn](https://www.linkedin.com) *(replace with your link)*
-- 🧑‍💻 [Portfolio / Resume](#) *(optional)*
+- 💼 [LinkedIn](https://www.linkedin.com)
+- 🧑‍💻 [Portfolio / Resume](#)
 - ✉️ Email: available on request
 
 ---
