@@ -6,7 +6,7 @@ I'm a **Software Engineer** with 5+ years of experience building scalable and ma
 
 ## 🔧 Tech Stack
 
-- **Languages:** PHP, JavaScript, Bash, Shell Script
+- **Languages:** PHP, JavaScript, Python
 - **Frameworks:** Laravel, REACT JS, Yii 1.x / 2.x, 
 - **Databases:** MySQL, SQL Server
 - **Tools & Platforms:** Git, Docker, XAMPP, Apache, NGINX, Redis
@@ -22,17 +22,19 @@ I'm a **Software Engineer** with 5+ years of experience building scalable and ma
 
 > Many of my professional works are in private repositories or proprietary systems. I’m working on open-sourcing select parts soon.
 
+
+<!--
 ---
 
 ## 📈 GitHub Stats
 
 ![Kamrul's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamrulhassan&show_icons=true&theme=vue-dark&hide_rank=false)
-
+-->
 ---
 
 ## 📫 Get in Touch
 
-- 💼 [LinkedIn](https://www.linkedin.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/kamrul-dev-guy)
 - 🧑‍💻 [Portfolio / Resume](#)
 - ✉️ Email: available on request
 
